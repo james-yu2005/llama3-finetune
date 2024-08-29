@@ -1,0 +1,287 @@
+[
+    {
+        "instruction": "I want a residence close to the engineering building and a double room with a roommate. Tell me why Claudette Millar Hall is a stellar option for me?",
+        "input": "",
+        "output": "Claudette Millar Hall is a stellar option because it's very close to the engineering buildings, making it convenient for students in that faculty. It offers modern double rooms, and you can easily find a roommate who shares your academic interests."
+    },
+    {
+        "instruction": "I prefer a residence near the library with access to private study rooms. How does Village 1 match my needs?",
+        "input": "",
+        "output": "Village 1 is a great match because it's located close to the library, making it easy to access study resources. It also offers private study rooms within the residence, perfect for focused studying."
+    },
+    {
+        "instruction": "I'm looking for a suite-style room close to the Science building. Why should I choose UWP?",
+        "input": "",
+        "output": "You should choose UWP because it offers suite-style rooms that provide extra privacy and comfort. It's also conveniently located near the Science building, making it ideal for students in that field."
+    },
+    {
+        "instruction": "I want to live somewhere near the Math and Computer building with a strong sense of community. Why would MKV be a good choice?",
+        "input": "",
+        "output": "MKV would be a good choice because it's close to the Math and Computer building, allowing for a short walk to classes. It also has a vibrant community with various social activities, fostering a strong sense of belonging."
+    },
+    {
+        "instruction": "Which residence is best for access to the Davis Centre and offers single rooms? Could you explain why Claudette Millar Hall fits this description?",
+        "input": "",
+        "output": "Claudette Millar Hall fits this description perfectly because it's within walking distance of the Davis Centre, making it convenient for students who frequent this building. It also offers modern single rooms, ideal for students who prefer a quiet, private living space."
+    },
+    {
+        "instruction": "I need a residence with access to a dining hall and proximity to the Engineering buildings. How does REV meet these needs?",
+        "input": "",
+        "output": "REV meets these needs as it is connected to the Village 1 cafeteria, offering a structured dining plan. It is also located within walking distance to the Engineering buildings, making it a convenient choice for engineering students."
+    },
+    {
+        "instruction": "I'm looking for a residence that provides both privacy and community. Can you tell me about UWP?",
+        "input": "",
+        "output": "UWP offers apartment-style living with private bedrooms and shared common areas, providing a balance of privacy and community. It includes study rooms, lounges, and recreational facilities, fostering both independence and social engagement."
+    },
+    {
+        "instruction": "Which residence is best for access to the library and offers communal study spaces? How does Village 1 fit this description?",
+        "input": "",
+        "output": "Village 1 is ideal for this need as it is close to the library and provides various communal study spaces within the residence. This setup supports students who want easy access to both study resources and collaborative study environments."
+    },
+    {
+        "instruction": "I want to be close to the Science building and prefer suite-style accommodations. Why is Claudette Millar Hall a good choice?",
+        "input": "",
+        "output": "Claudette Millar Hall is a good choice because it offers suite-style accommodations that include private bedrooms and shared living areas. It is also conveniently located near the Science building, making it a practical option for science students."
+    },
+    {
+        "instruction": "Which residence offers a strong sense of community and is close to the library? How does REV meet these criteria?",
+        "input": "",
+        "output": "REV offers a vibrant community with numerous social events and is connected to the Village 1 cafeteria, which is close to the library. This combination ensures a strong sense of community and convenient access to study resources."
+    },
+    {
+        "instruction": "I need a residence with private rooms and close to campus amenities. How does United College meet these needs?",
+        "input": "",
+        "output": "United College offers private single rooms and is centrally located on campus. It provides easy access to academic buildings, libraries, and recreational facilities, making it a suitable choice for students who value privacy and convenience."
+    },
+    {
+        "instruction": "I want a residence with a mix of independence and community and access to on-campus dining. Which residence should I choose?",
+        "input": "",
+        "output": "UWP is a good choice as it offers apartment-style living with private and communal spaces, and includes Mudie’s dining hall for meal options. This combination provides both independence and access to convenient dining facilities."
+    },
+    {
+        "instruction": "Which residence offers suite-style living and is close to the Math and Computer building?",
+        "input": "",
+        "output": "Claudette Millar Hall offers suite-style living and is conveniently located near the Math and Computer building, making it a great option for students in that field who prefer a suite-style arrangement."
+    },
+    {
+        "instruction": "I prefer a residence with active social life and proximity to the Davis Centre. Is REV a good option?",
+        "input": "",
+        "output": "REV is known for its active social life with numerous events and activities. Although it's a bit farther from the Davis Centre compared to other residences, it still provides a lively community environment that many first-year students enjoy."
+    },
+    {
+        "instruction": "I need a residence that offers single rooms and has a focus on academic support. How does United College fit this description?",
+        "input": "",
+        "output": "United College fits this description as it offers single rooms and places a strong emphasis on academic support and leadership development. It includes academic programs and living-learning communities that provide additional academic and personal growth opportunities."
+    },
+    {
+        "instruction": "I want a residence with easy access to the library and a variety of social events. Which residence meets these needs?",
+        "input": "",
+        "output": "Village 1 meets these needs with its proximity to the library and its vibrant social scene, including various residence events and activities that foster community and interaction among residents."
+    },
+    {
+        "instruction": "Which residence provides both private living spaces and communal areas and is located near the Science building?",
+        "input": "",
+        "output": "UWP provides private living spaces in its apartments and suites, as well as communal areas. It is also located close to the Science building, making it a suitable choice for students who want both privacy and access to academic facilities."
+    },
+    {
+        "instruction": "I need a residence with shared washrooms and a strong community atmosphere. Is REV a good choice?",
+        "input": "",
+        "output": "REV is a good choice as it features shared washrooms and is known for its strong community atmosphere with numerous social and academic events, making it popular among students looking for an engaging residence experience."
+    },
+    {
+        "instruction": "Which residence offers a modern living environment with suite-style rooms and is centrally located on campus?",
+        "input": "",
+        "output": "Claudette Millar Hall offers a modern living environment with suite-style rooms and is centrally located on campus, making it an excellent choice for students who want contemporary accommodations and convenient access to campus facilities."
+    },
+    {
+        "instruction": "I want a residence with a strong sense of community and proximity to University Shops Plaza. How does Village 1 fit this description?",
+        "input": "",
+        "output": "Village 1 has a strong sense of community with its active social scene and is located about a 10-15 minute walk from University Shops Plaza, providing convenient access to off-campus amenities."
+    },
+    {
+        "instruction": "I need a residence with private rooms and easy access to the Engineering buildings. Which residence should I consider?",
+        "input": "",
+        "output": "United College offers private rooms and is centrally located on campus, providing easy access to the Engineering buildings, making it a suitable choice for students who need privacy and proximity to their classes."
+    },
+    {
+        "instruction": "Which residence offers a variety of meal options and is close to the library?",
+        "input": "",
+        "output": "Village 1 offers a variety of meal options through its connection to the Village 1 cafeteria and is also close to the library, making it a practical choice for students who want both dining convenience and access to study resources."
+    },
+    {
+        "instruction": "I want to live in a residence with a mix of privacy and social interaction, and I need access to a dining hall. Which residence is suitable?",
+        "input": "",
+        "output": "UWP provides a mix of privacy with its apartment-style living and social interaction through its various events and activities. It also has Mudie’s dining hall, offering a range of meal options, making it a suitable choice for your needs."
+    },
+    {
+        "instruction": "Which residence offers a private room setup and is close to the Math and Computer building?",
+        "input": "",
+        "output": "United College offers private single rooms and is conveniently located near the Math and Computer building, making it a good option for students who value privacy and proximity to their academic facilities."
+    },
+    {
+        "instruction": "I want a residence with communal study spaces and a strong community atmosphere. Is REV a good fit?",
+        "input": "",
+        "output": "REV is a good fit as it offers communal study spaces and has a strong community atmosphere with various social and academic events that foster a sense of belonging among residents."
+    },
+    {
+        "instruction": "Which residence provides suite-style accommodations and is near the Science building?",
+        "input": "",
+        "output": "Claudette Millar Hall provides suite-style accommodations and is conveniently located near the Science building, making it an ideal choice for students who need both modern living spaces and proximity to their classes."
+    },
+    {
+        "instruction": "I need a residence with strong academic support and proximity to the Davis Centre. How does UWP match this requirement?",
+        "input": "",
+        "output": "UWP matches this requirement well as it offers academic support programs and is located relatively close to the Davis Centre. The residence also includes resources and support services to help students succeed academically."
+    },
+    {
+        "instruction": "Which residence offers single rooms and is close to both the library and on-campus dining?",
+        "input": "",
+        "output": "United College offers single rooms and is located within a reasonable distance to both the library and on-campus dining options, providing a balance of privacy and convenience for students."
+    },
+    {
+        "instruction": "I prefer a residence with active social events and access to communal study rooms. How does Village 1 fit this preference?",
+        "input": "",
+        "output": "Village 1 fits this preference as it has a lively social scene with numerous events and activities, and it also offers communal study rooms for academic collaboration and study sessions."
+    },
+    {
+        "instruction": "Which residence provides modern suite-style rooms and is close to the Engineering buildings?",
+        "input": "",
+        "output": "Claudette Millar Hall provides modern suite-style rooms and is conveniently located near the Engineering buildings, making it an excellent choice for students in the Engineering faculty."
+    },
+    {
+        "instruction": "I need a residence that fosters community and is located near the Science building. Is REV a good choice?",
+        "input": "",
+        "output": "REV is a good choice as it fosters a strong community atmosphere with various social events and is also located within a reasonable distance from the Science building."
+    },
+    {
+        "instruction": "Which residence offers a mix of privacy and community with access to a dining hall?",
+        "input": "",
+        "output": "UWP offers a mix of privacy and community through its apartment-style living arrangements and also provides access to Mudie’s dining hall, making it a good option for students who want both independence and dining convenience."
+    },
+    {
+        "instruction": "I want a residence with private rooms and strong academic support. How does United College meet these needs?",
+        "input": "",
+        "output": "United College meets these needs by offering private rooms and a focus on academic support through its various programs and resources. It also provides opportunities for leadership development and academic success."
+    },
+    {
+        "instruction": "Which residence is best for proximity to the library and includes a variety of communal spaces?",
+        "input": "",
+        "output": "Village 1 is best for proximity to the library and includes a variety of communal spaces such as lounges and study areas, making it ideal for students who need access to study resources and social spaces."
+    },
+    {
+        "instruction": "I prefer a residence with suite-style accommodations and proximity to the Engineering buildings. Which residence should I choose?",
+        "input": "",
+        "output": "Claudette Millar Hall offers suite-style accommodations and is located near the Engineering buildings, making it a suitable choice for students who need both comfortable living arrangements and convenient access to their classes."
+    },
+    {
+        "instruction": "I need a residence with a strong sense of community and is close to the Math and Computer building. How does REV fit this description?",
+        "input": "",
+        "output": "REV fits this description with its vibrant community atmosphere and proximity to the Math and Computer building. The residence hosts various social events and activities that help foster a sense of belonging among its residents."
+    },
+    {
+        "instruction": "Which residence offers private living spaces and is close to campus amenities and the library?",
+        "input": "",
+        "output": "United College offers private living spaces and is centrally located on campus, providing easy access to campus amenities and the library, making it a practical choice for students who value both privacy and convenience."
+    },
+    {
+        "instruction": "I want a residence with a strong academic focus and communal living spaces. How does UWP meet these needs?",
+        "input": "",
+        "output": "UWP meets these needs by offering a mix of private apartments and communal living spaces, along with strong academic support programs. The residence includes resources and activities that promote academic success and community engagement."
+    },
+    {
+        "instruction": "Which residence provides a balance of privacy and community with access to dining facilities?",
+        "input": "",
+        "output": "UWP provides a balance of privacy and community through its apartment-style living arrangements and access to Mudie’s dining hall, making it a suitable choice for students who want both independent living and convenient dining options."
+    },
+    {
+        "instruction": "I need a residence with communal study spaces and is close to the Science building. Is Village 1 a good choice?",
+        "input": "",
+        "output": "Village 1 is a good choice as it offers communal study spaces and is located within a reasonable distance from the Science building, providing a balance of academic resources and proximity to academic facilities."
+    },
+    {
+        "instruction": "Which residence offers a vibrant community atmosphere and is close to the Engineering buildings?",
+        "input": "",
+        "output": "REV offers a vibrant community atmosphere with various social events and activities and is located within walking distance to the Engineering buildings, making it a good choice for students seeking both a lively community and convenience."
+    },
+    {
+        "instruction": "I want a residence with a mix of private rooms and communal areas, and proximity to the library. How does Claudette Millar Hall fit these criteria?",
+        "input": "",
+        "output": "Claudette Millar Hall fits these criteria with its suite-style rooms offering both privacy and communal spaces. It is also close to the library, providing easy access to study resources and a comfortable living environment."
+    },
+    {
+        "instruction": "Which residence offers strong academic support and is close to the library?",
+        "input": "",
+        "output": "UWP offers strong academic support through its various programs and resources and is close to the library, making it a suitable choice for students who need academic assistance and convenient access to study materials."
+    },
+    {
+        "instruction": "I need a residence with a vibrant social scene and access to on-campus dining. How does Village 1 meet these needs?",
+        "input": "",
+        "output": "Village 1 meets these needs with its active social scene and connection to the Village 1 cafeteria for on-campus dining. The residence provides various social events and activities, along with convenient meal options."
+    },
+    {
+        "instruction": "Which residence provides a modern living environment with communal study spaces and is close to the Science building?",
+        "input": "",
+        "output": "Claudette Millar Hall offers a modern living environment with communal study spaces and is located near the Science building, making it an excellent choice for students who want contemporary accommodations and academic resources."
+    },
+    {
+        "instruction": "I want a residence with private rooms and strong community support. How does United College fit this description?",
+        "input": "",
+        "output": "United College offers private rooms and a strong sense of community with various support programs and activities. The residence provides opportunities for personal and academic growth through its focused academic support and leadership development initiatives."
+    },
+    {
+        "instruction": "Which residence offers communal living spaces and is close to the Davis Centre?",
+        "input": "",
+        "output": "REV offers communal living spaces and is located within a short distance from the Davis Centre, making it a good choice for students who want both social interaction and proximity to this academic building."
+    },
+    {
+        "instruction": "I need a residence that balances privacy with access to communal areas and is close to campus amenities. How does UWP fit this need?",
+        "input": "",
+        "output": "UWP balances privacy with access to communal areas through its apartment-style living arrangements and various on-campus amenities. The residence provides private bedrooms and shared spaces, along with convenient access to dining and academic facilities."
+    },
+    {
+        "instruction": "Which residence offers a mix of suite-style living and strong community activities?",
+        "input": "",
+        "output": "Claudette Millar Hall offers suite-style living with a mix of private and communal spaces. It also hosts various community activities and events, providing both a private living environment and opportunities for social engagement."
+    },
+    {
+        "instruction": "I prefer a residence with a focus on academic success and proximity to the library. Is United College a good fit?",
+        "input": "",
+        "output": "United College is a good fit as it focuses on academic success through its various support programs and is located close to the library, providing convenient access to study resources and academic support."
+    },
+    {
+        "instruction": "Which residence provides a strong sense of community and is close to the Engineering buildings?",
+        "input": "",
+        "output": "REV provides a strong sense of community with numerous social events and is located within walking distance of the Engineering buildings, making it suitable for students who want both a vibrant community and easy access to their classes."
+    },
+    {
+        "instruction": "I want a residence with suite-style rooms and a focus on academic and social support. How does UWP fit these criteria?",
+        "input": "",
+        "output": "UWP fits these criteria with its suite-style rooms that offer both privacy and communal living spaces. The residence emphasizes academic support through its programs and provides various social events to foster community engagement."
+    },
+    {
+        "instruction": "Which residence offers a strong academic focus and suite-style accommodations?",
+        "input": "",
+        "output": "UWP offers a strong academic focus with suite-style accommodations. The residence provides various academic support programs and resources while offering a comfortable and private living environment."
+    },
+    {
+        "instruction": "I need a residence with modern living spaces and strong community activities. How does Village 1 meet these needs?",
+        "input": "",
+        "output": "Village 1 meets these needs with its modern living spaces and active community environment. The residence offers various social events and activities, providing a lively atmosphere and contemporary accommodations."
+    },
+    {
+        "instruction": "Which residence offers a balance of privacy and community with access to dining facilities and proximity to the Science building?",
+        "input": "",
+        "output": "UWP offers a balance of privacy and community through its apartment-style living arrangements, access to Mudie’s dining hall, and proximity to the Science building, making it a suitable choice for students who want both privacy and convenience."
+    },
+    {
+        "instruction": "I want a residence with strong community support and is close to the library. How does REV fit this description?",
+        "input": "",
+        "output": "REV fits this description with its vibrant community support and proximity to the library. The residence hosts numerous social activities and provides access to academic resources, making it a good choice for students seeking both community and academic support."
+    },
+    {
+        "instruction": "Which residence offers modern accommodations with access to communal study spaces and is near the Math and Computer building?",
+        "input": "",
+        "output": "Claudette Millar Hall offers modern accommodations with access to communal study spaces and is located near the Math and Computer building, making it an ideal choice for students in these fields who need both comfortable living and academic resources."
+    }
+  ]
